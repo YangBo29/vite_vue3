@@ -1,0 +1,13 @@
+# 忽略目录
+**/dist/**
+**/.vscode/**
+**/node_modules/**
+**/public/**
+/docs/
+/bin/
+
+# 忽略文件类型
+**/*.d.ts
+*.md
+*.woff
+*.ttf
